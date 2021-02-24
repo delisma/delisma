@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<h1 align=center>Hello World !</h1>
+<p align=center>
+  <kbd><img width=400 src="https://github-readme-stats.vercel.app/api?username=delisma&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=true&include_all_commits=true"><img height=155 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=delisma&layout=compact&langs_count=10&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=true&card_width=485&line_height=35" /></kbd>
+</p>
+
+<p align=center>
+<a href="https://twitter.com/elismatic"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter@elismatic"></a>
+<a href="https://www.linkedin.com/in/elismatic"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn@elismatic"></a>
+<a href="https://www.hackerrank.com/elismatic"><img src="https://img.shields.io/badge/HackerRank--_.svg?style=social&logo=hackerrank" alt="HackerRank@elismatic"></a>
+<a href="https://elismatic.com/contactme/"><img src="https://img.shields.io/badge/Contact%20Me--_.svg?style=social" alt="contactme"></a>
+</p>
+
 <!--
 **delisma/delisma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
