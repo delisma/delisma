@@ -12,6 +12,8 @@
 <a href="https://elismatic.com/contactme/"><img src="https://img.shields.io/badge/Contact%20Me--_.svg?style=social" alt="contactme"></a>
 </p>
 
+<div align=center><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/677de48370129741a8220a41?variant=dark&roadmaps=frontend%2Cfull-stack%2Cai-engineer" alt="roadmap.sh"/></a></a></div>
+
 <!--
 **delisma/delisma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
